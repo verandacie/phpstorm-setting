@@ -1,7 +1,9 @@
 <application>
   <component name="WebServers">
-    <sftpAdvancedGlobalOptions>
-      <SftpAdvancedOptions />
-    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="4ea17858-7d3a-436e-9577-333ae57e272e" name="アド・イーグル" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
   </component>
 </application>
